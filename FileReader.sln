@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader.Tests", "FileReader.Tests\FileReader.Tests.csproj", "{A85FC0EF-634B-441F-AA73-1FAC190A928B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReader.FileAccess", "FileReader.FileAccess\FileReader.FileAccess.csproj", "{8AF64D10-BF56-4D00-B13A-B368A0C049A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A85FC0EF-634B-441F-AA73-1FAC190A928B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85FC0EF-634B-441F-AA73-1FAC190A928B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85FC0EF-634B-441F-AA73-1FAC190A928B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85FC0EF-634B-441F-AA73-1FAC190A928B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF64D10-BF56-4D00-B13A-B368A0C049A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF64D10-BF56-4D00-B13A-B368A0C049A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF64D10-BF56-4D00-B13A-B368A0C049A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF64D10-BF56-4D00-B13A-B368A0C049A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
